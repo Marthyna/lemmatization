@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1606151821 source:c:\trabalho final ed\trabed-versao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"lematizacaoABP.h"
+
+1606151724 c:\trabalho final ed\trabed-versao2\lematizacaoabp.h
+
+1606110644 source:c:\trabalho final ed\trabed-versao2\lematizacaoabp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lematizacaoABP.h"
+

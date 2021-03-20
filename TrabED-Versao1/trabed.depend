@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1606015808 source:c:\trabed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"lema.h"
+
+1606015751 c:\trabed\lema.h
+
+1606015822 source:c:\trabed\lema.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lema.h"
+
+1606050466 source:c:\trabed-versao1\lematizacaoavl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lematizacaoAVL.h"
+
+1606050543 c:\trabed-versao1\lematizacaoavl.h
+
+1606046827 source:c:\trabed-versao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"lematizacaoAVL.h"
+
+1606110441 source:c:\trabalho final ed\trabed-versao1\lematizacaoavl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lematizacaoAVL.h"
+
+1606110442 c:\trabalho final ed\trabed-versao1\lematizacaoavl.h
+
+1606110442 source:c:\trabalho final ed\trabed-versao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"lematizacaoAVL.h"
+
